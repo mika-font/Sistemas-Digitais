@@ -1,0 +1,23 @@
+# Ignorar scripts locais do Windows
+*.bat
+
+# Arquivos temporarios e de backup
+*.tmp
+*.temp
+*.bak
+*.old
+*~
+
+# Arquivos de log
+*.log
+
+# Arquivos do sistema operacional
+Thumbs.db
+Desktop.ini
+
+# Arquivos de configuracao local do editor
+.vscode/
+
+# Arquivos de cache e saida de ferramentas
+*.cache
+*.out
